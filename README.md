@@ -1,4 +1,4 @@
-# Machine Learning and Article Popularity
+## Machine Learning and Article Popularity
 
 ---
 This project utilizes machine learning techniques to try to predict the popularity of articles on mashable.com. This is the final project for the University of Minnesota's Data Visualization and Analytics Cohort 10. The group members of this project include Steven Gaetz, Natalia Mendoza-Orr, Nate Witte, and Sam Ziegler.
