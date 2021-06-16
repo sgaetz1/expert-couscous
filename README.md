@@ -8,9 +8,9 @@ This project utilizes machine learning techniques to try to predict the populari
 Here is the link to the website: https://szig97.github.io/final-project/
 
 ## Data
-The dataset used in this project can be downloaded here: https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity.
+The data includes a set of features about artcles that were published by Mashable.com over a period of two years. It includes 39,797 rows and  61 attributes (58 predictive attributes, 2 non-predictive, 1 target field) including URL of the article, days between the article publication and the dataset acquisition, number of words in the title, etc. For a full list of feature, please see the link below.
 
-The data includes a set of features about artcles that were published by Mashable.com over a period of two years. It includes 39,797 rows and  61 attributes (58 predictive attributes, 2 non-predictive, 1 target field) including URL of the article, days between the article publication and the dataset acquisition, number of words in the title, etc.
+The dataset used in this project can be downloaded here: https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity.
 
 ## Technologies
 This project was created with:
