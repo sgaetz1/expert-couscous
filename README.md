@@ -2,7 +2,7 @@
 
 ## General
 This project utilizes machine learning techniques to try to predict the popularity of articles on mashable.com. This is the final project for the University of Minnesota's Data Visualization and Analytics Cohort 10. The group members of this project include Steven Gaetz, Natalia Mendoza-Orr, Nate Witte, and Sam Ziegler.
-Link to the website: https://szig97.github.io/final-project/
+Here is the link to the website: https://szig97.github.io/final-project/
 
 ## Data
 The data used in this project can be downloaded here: https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity. 
