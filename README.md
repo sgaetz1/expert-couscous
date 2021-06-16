@@ -3,12 +3,14 @@
 <img src="https://github.com/sgaetz1/expert-couscous/blob/main/graphics/machine_learning.jpg" alt="machine learning">
 
 ## General
-This project utilizes machine learning techniques to try to predict the popularity of articles on mashable.com. This is the final project for the University of Minnesota's Data Visualization and Analytics Cohort 10. The group members of this project include Steven Gaetz, Natalia Mendoza-Orr, Nate Witte, and Sam Ziegler.
+This project utilizes machine learning techniques to try to predict the popularity of articles on mashable.com. This is the final project for the University of Minnesota's Data Visualization and Analytics Cohort 10. The group members of this project include Steven Gaetz, Natalia Mendoza-Orr, Nate Witte, and Sam Ziegler. Using K Nearest Neighbors, Random Forest, SVM, and Neural Networks, this group has attempted to build a machine learning model that would predict if an article fits into one of three categories based on the number of shares on social media. The categories are Popular, Neutral, and Unpopular.
+
 Here is the link to the website: https://szig97.github.io/final-project/
 
 ## Data
-The data used in this project can be downloaded here: https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity. 
-It includes 39,797 rows and  61 attributes (58 predictive attributes, 2 non-predictive, 1 target field) including URL of the article, days between the article publication and the dataset acquisition, number of words in the title, etc.
+The dataset used in this project can be downloaded here: https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity.
+
+The data includes a set of features about artcles that were published by Mashable.com over a period of two years. It includes 39,797 rows and  61 attributes (58 predictive attributes, 2 non-predictive, 1 target field) including URL of the article, days between the article publication and the dataset acquisition, number of words in the title, etc.
 
 ## Technologies
 This project was created with:
