@@ -17,4 +17,4 @@ This project was created with:
 * Pandas
 * Matplotlib
 * Tableau
-* Seaborn
+
