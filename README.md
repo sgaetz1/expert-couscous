@@ -21,4 +21,4 @@ This project was created with:
 * Tableau
 
 ---
-###### *image credit: https://www.einfochips.com/blog/how-to-develop-machine-learning-applications-for-business/*
+*image credit: https://www.einfochips.com/blog/how-to-develop-machine-learning-applications-for-business/*
