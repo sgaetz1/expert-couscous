@@ -1,6 +1,6 @@
 ## Machine Learning and Article Popularity
 
-<img src="https://github.com/sgaetz1/expert-couscous/blob/main/graphics/machine_learning.jpg" alt="machine learning">
+<img src="https://github.com/szig97/final-project/blob/main/graphics/NN_graphics/machine_learning.jpg" alt="machine learning">
 
 ## General
 This project utilizes machine learning techniques to predict the popularity of articles on mashable.com. This is the final project for the University of Minnesota's Data Visualization and Analytics Cohort 10. The group members of this project include Steven Gaetz, Natalia Mendoza-Orr, Nate Witte, and Sam Ziegler. This group used K Nearest Neighbors, Random Forest, SVM, and Neural Networks to build a machine learning model that would predict if an article fits into one of three categories based on the number of shares on social media. The categories are Popular, Neutral, and Unpopular.
