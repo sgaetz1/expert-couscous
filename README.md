@@ -20,3 +20,4 @@ This project was created with:
 * Matplotlib
 * Tableau
 
+<i style="font-size: 10px">image credit: https://www.einfochips.com/blog/how-to-develop-machine-learning-applications-for-business/</i>
